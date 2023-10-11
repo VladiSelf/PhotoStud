@@ -1,0 +1,231 @@
+C:\Users\vladi\source\repos\KURSACH\KURSACH\bin\Debug\KURSACH.exe.config
+C:\Users\vladi\source\repos\KURSACH\KURSACH\bin\Debug\KURSACH.exe
+C:\Users\vladi\source\repos\KURSACH\KURSACH\bin\Debug\KURSACH.pdb
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\MainWindow.g.cs
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\Views\SighInPage.g.cs
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\App.g.cs
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH_MarkupCompile.cache
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH_MarkupCompile.lref
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\MainWindow.baml
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\Views\SighInPage.baml
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH.g.resources
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH.Properties.Resources.resources
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH.csproj.GenerateResource.cache
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH.exe
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH.pdb
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH_Content.g.cs
+C:\Users\vladi\source\repos\KURSACH\KURSACH\bin\Debug\EntityFramework.dll
+C:\Users\vladi\source\repos\KURSACH\KURSACH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladi\source\repos\KURSACH\KURSACH\bin\Debug\EntityFramework.xml
+C:\Users\vladi\source\repos\KURSACH\KURSACH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladi\source\repos\KURSACH\KURSACH\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\Views\WelcomePage.g.cs
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\Views\WelcomePage.baml
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\KURSACH.csproj.CopyComplete
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\Views\DataPage.g.cs
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\Views\DataPage.baml
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\Views\NewUserPage.g.cs
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\Views\NewUserPage.baml
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\Views\EditUserPage.g.cs
+C:\Users\vladi\source\repos\KURSACH\KURSACH\obj\Debug\Views\EditUserPage.baml
+D:\KURSACH\KURSACH\bin\Debug\KURSACH.exe.config
+D:\KURSACH\KURSACH\bin\Debug\KURSACH.exe
+D:\KURSACH\KURSACH\bin\Debug\KURSACH.pdb
+D:\KURSACH\KURSACH\bin\Debug\EntityFramework.dll
+D:\KURSACH\KURSACH\bin\Debug\EntityFramework.SqlServer.dll
+D:\KURSACH\KURSACH\bin\Debug\EntityFramework.xml
+D:\KURSACH\KURSACH\bin\Debug\EntityFramework.SqlServer.xml
+D:\KURSACH\KURSACH\bin\Debug\ru\EntityFramework.resources.dll
+D:\KURSACH\KURSACH\obj\Debug\KURSACH.csproj.AssemblyReference.cache
+D:\KURSACH\KURSACH\obj\Debug\MainWindow.g.cs
+D:\KURSACH\KURSACH\obj\Debug\Views\DataPage.g.cs
+D:\KURSACH\KURSACH\obj\Debug\Views\EditUserPage.g.cs
+D:\KURSACH\KURSACH\obj\Debug\Views\NewUserPage.g.cs
+D:\KURSACH\KURSACH\obj\Debug\Views\SighInPage.g.cs
+D:\KURSACH\KURSACH\obj\Debug\Views\WelcomePage.g.cs
+D:\KURSACH\KURSACH\obj\Debug\App.g.cs
+D:\KURSACH\KURSACH\obj\Debug\KURSACH_Content.g.cs
+D:\KURSACH\KURSACH\obj\Debug\KURSACH_MarkupCompile.cache
+D:\KURSACH\KURSACH\obj\Debug\KURSACH_MarkupCompile.lref
+D:\KURSACH\KURSACH\obj\Debug\MainWindow.baml
+D:\KURSACH\KURSACH\obj\Debug\Views\DataPage.baml
+D:\KURSACH\KURSACH\obj\Debug\Views\EditUserPage.baml
+D:\KURSACH\KURSACH\obj\Debug\Views\NewUserPage.baml
+D:\KURSACH\KURSACH\obj\Debug\Views\SighInPage.baml
+D:\KURSACH\KURSACH\obj\Debug\Views\WelcomePage.baml
+D:\KURSACH\KURSACH\obj\Debug\KURSACH.g.resources
+D:\KURSACH\KURSACH\obj\Debug\KURSACH.Properties.Resources.resources
+D:\KURSACH\KURSACH\obj\Debug\KURSACH.csproj.GenerateResource.cache
+D:\KURSACH\KURSACH\obj\Debug\KURSACH.csproj.CoreCompileInputs.cache
+D:\KURSACH\KURSACH\obj\Debug\KURSACH.csproj.CopyComplete
+D:\KURSACH\KURSACH\obj\Debug\KURSACH.exe
+D:\KURSACH\KURSACH\obj\Debug\KURSACH.pdb
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH.csproj.AssemblyReference.cache
+D:\KURSACH — копия\KURSACH\obj\Debug\MainWindow.g.cs
+D:\KURSACH — копия\KURSACH\obj\Debug\Views\DataPage.g.cs
+D:\KURSACH — копия\KURSACH\obj\Debug\Views\EditUserPage.g.cs
+D:\KURSACH — копия\KURSACH\obj\Debug\Views\NewUserPage.g.cs
+D:\KURSACH — копия\KURSACH\obj\Debug\Views\SighInPage.g.cs
+D:\KURSACH — копия\KURSACH\obj\Debug\Views\WelcomePage.g.cs
+D:\KURSACH — копия\KURSACH\obj\Debug\App.g.cs
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH_Content.g.cs
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH_MarkupCompile.cache
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH_MarkupCompile.lref
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH.exe
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH.pdb
+D:\KURSACH — копия\KURSACH\bin\Debug\KURSACH.exe.config
+D:\KURSACH — копия\KURSACH\bin\Debug\KURSACH.exe
+D:\KURSACH — копия\KURSACH\bin\Debug\KURSACH.pdb
+D:\KURSACH — копия\KURSACH\bin\Debug\DocumentFormat.OpenXml.dll
+D:\KURSACH — копия\KURSACH\bin\Debug\EntityFramework.dll
+D:\KURSACH — копия\KURSACH\bin\Debug\EntityFramework.SqlServer.dll
+D:\KURSACH — копия\KURSACH\bin\Debug\DocumentFormat.OpenXml.xml
+D:\KURSACH — копия\KURSACH\bin\Debug\EntityFramework.xml
+D:\KURSACH — копия\KURSACH\bin\Debug\EntityFramework.SqlServer.xml
+D:\KURSACH — копия\KURSACH\bin\Debug\ru\EntityFramework.resources.dll
+D:\KURSACH — копия\KURSACH\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\KURSACH — копия\KURSACH\obj\Debug\MainWindow.baml
+D:\KURSACH — копия\KURSACH\obj\Debug\Views\DataPage.baml
+D:\KURSACH — копия\KURSACH\obj\Debug\Views\EditUserPage.baml
+D:\KURSACH — копия\KURSACH\obj\Debug\Views\NewUserPage.baml
+D:\KURSACH — копия\KURSACH\obj\Debug\Views\SighInPage.baml
+D:\KURSACH — копия\KURSACH\obj\Debug\Views\WelcomePage.baml
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH.g.resources
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH.Properties.Resources.resources
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH.csproj.GenerateResource.cache
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH.csproj.CoreCompileInputs.cache
+D:\KURSACH — копия\KURSACH\obj\Debug\KURSACH.csproj.CopyComplete
+D:\KURSACH.main\KURSACH\bin\Debug\KURSACH.exe.config
+D:\KURSACH.main\KURSACH\bin\Debug\KURSACH.exe
+D:\KURSACH.main\KURSACH\bin\Debug\KURSACH.pdb
+D:\KURSACH.main\KURSACH\bin\Debug\DocumentFormat.OpenXml.dll
+D:\KURSACH.main\KURSACH\bin\Debug\EntityFramework.dll
+D:\KURSACH.main\KURSACH\bin\Debug\EntityFramework.SqlServer.dll
+D:\KURSACH.main\KURSACH\bin\Debug\DocumentFormat.OpenXml.xml
+D:\KURSACH.main\KURSACH\bin\Debug\EntityFramework.xml
+D:\KURSACH.main\KURSACH\bin\Debug\EntityFramework.SqlServer.xml
+D:\KURSACH.main\KURSACH\bin\Debug\ru\EntityFramework.resources.dll
+D:\KURSACH.main\KURSACH\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH.csproj.AssemblyReference.cache
+D:\KURSACH.main\KURSACH\obj\Debug\MainWindow.g.cs
+D:\KURSACH.main\KURSACH\obj\Debug\Views\DataPage.g.cs
+D:\KURSACH.main\KURSACH\obj\Debug\Views\EditUserPage.g.cs
+D:\KURSACH.main\KURSACH\obj\Debug\Views\NewUserPage.g.cs
+D:\KURSACH.main\KURSACH\obj\Debug\Views\SighInPage.g.cs
+D:\KURSACH.main\KURSACH\obj\Debug\App.g.cs
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH_Content.g.cs
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH_MarkupCompile.cache
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH_MarkupCompile.lref
+D:\KURSACH.main\KURSACH\obj\Debug\MainWindow.baml
+D:\KURSACH.main\KURSACH\obj\Debug\Views\DataPage.baml
+D:\KURSACH.main\KURSACH\obj\Debug\Views\EditUserPage.baml
+D:\KURSACH.main\KURSACH\obj\Debug\Views\NewUserPage.baml
+D:\KURSACH.main\KURSACH\obj\Debug\Views\SighInPage.baml
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH.g.resources
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH.Properties.Resources.resources
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH.csproj.GenerateResource.cache
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH.csproj.CoreCompileInputs.cache
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH.csproj.CopyComplete
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH.exe
+D:\KURSACH.main\KURSACH\obj\Debug\KURSACH.pdb
+D:\KURSACH.main — копия\KURSACH\bin\Debug\KURSACH.exe.config
+D:\KURSACH.main — копия\KURSACH\bin\Debug\KURSACH.exe
+D:\KURSACH.main — копия\KURSACH\bin\Debug\KURSACH.pdb
+D:\KURSACH.main — копия\KURSACH\bin\Debug\DocumentFormat.OpenXml.dll
+D:\KURSACH.main — копия\KURSACH\bin\Debug\EntityFramework.dll
+D:\KURSACH.main — копия\KURSACH\bin\Debug\EntityFramework.SqlServer.dll
+D:\KURSACH.main — копия\KURSACH\bin\Debug\DocumentFormat.OpenXml.xml
+D:\KURSACH.main — копия\KURSACH\bin\Debug\EntityFramework.xml
+D:\KURSACH.main — копия\KURSACH\bin\Debug\EntityFramework.SqlServer.xml
+D:\KURSACH.main — копия\KURSACH\bin\Debug\ru\EntityFramework.resources.dll
+D:\KURSACH.main — копия\KURSACH\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH.csproj.AssemblyReference.cache
+D:\KURSACH.main — копия\KURSACH\obj\Debug\MainWindow.g.cs
+D:\KURSACH.main — копия\KURSACH\obj\Debug\Views\DataPage.g.cs
+D:\KURSACH.main — копия\KURSACH\obj\Debug\Views\EditUserPage.g.cs
+D:\KURSACH.main — копия\KURSACH\obj\Debug\Views\NewUserPage.g.cs
+D:\KURSACH.main — копия\KURSACH\obj\Debug\Views\SighInPage.g.cs
+D:\KURSACH.main — копия\KURSACH\obj\Debug\App.g.cs
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH_Content.g.cs
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH_MarkupCompile.cache
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH_MarkupCompile.lref
+D:\KURSACH.main — копия\KURSACH\obj\Debug\MainWindow.baml
+D:\KURSACH.main — копия\KURSACH\obj\Debug\Views\DataPage.baml
+D:\KURSACH.main — копия\KURSACH\obj\Debug\Views\EditUserPage.baml
+D:\KURSACH.main — копия\KURSACH\obj\Debug\Views\NewUserPage.baml
+D:\KURSACH.main — копия\KURSACH\obj\Debug\Views\SighInPage.baml
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH.g.resources
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH.Properties.Resources.resources
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH.csproj.GenerateResource.cache
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH.csproj.CoreCompileInputs.cache
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH.csproj.CopyComplete
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH.exe
+D:\KURSACH.main — копия\KURSACH\obj\Debug\KURSACH.pdb
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\KURSACH.exe.config
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\KURSACH.exe
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\KURSACH.pdb
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\DocumentFormat.OpenXml.dll
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\EntityFramework.dll
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\EntityFramework.SqlServer.dll
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\DocumentFormat.OpenXml.xml
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\EntityFramework.xml
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\EntityFramework.SqlServer.xml
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\ru\EntityFramework.resources.dll
+D:\KURSACH.almostfinal\KURSACH\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH.csproj.AssemblyReference.cache
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\MainWindow.g.cs
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\Views\DataPage.g.cs
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\Views\EditUserPage.g.cs
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\Views\NewUserPage.g.cs
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\Views\SighInPage.g.cs
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\App.g.cs
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH_Content.g.cs
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH_MarkupCompile.cache
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH_MarkupCompile.lref
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\MainWindow.baml
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\Views\DataPage.baml
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\Views\EditUserPage.baml
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\Views\NewUserPage.baml
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\Views\SighInPage.baml
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH.g.resources
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH.Properties.Resources.resources
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH.csproj.GenerateResource.cache
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH.csproj.CoreCompileInputs.cache
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH.csproj.CopyComplete
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH.exe
+D:\KURSACH.almostfinal\KURSACH\obj\Debug\KURSACH.pdb
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH.csproj.AssemblyReference.cache
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\MainWindow.g.cs
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\Views\DataPage.g.cs
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\Views\EditUserPage.g.cs
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\Views\NewUserPage.g.cs
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\Views\SighInPage.g.cs
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\App.g.cs
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH_Content.g.cs
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH_MarkupCompile.cache
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH_MarkupCompile.lref
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH.exe
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH.pdb
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\KURSACH.exe.config
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\KURSACH.exe
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\KURSACH.pdb
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\DocumentFormat.OpenXml.dll
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\EntityFramework.dll
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\EntityFramework.SqlServer.dll
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\DocumentFormat.OpenXml.xml
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\EntityFramework.xml
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\EntityFramework.SqlServer.xml
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\ru\EntityFramework.resources.dll
+D:\KURSACH.almostfinal — копия\KURSACH\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\MainWindow.baml
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\Views\DataPage.baml
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\Views\EditUserPage.baml
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\Views\NewUserPage.baml
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\Views\SighInPage.baml
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH.g.resources
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH.Properties.Resources.resources
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH.csproj.GenerateResource.cache
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH.csproj.CoreCompileInputs.cache
+D:\KURSACH.almostfinal — копия\KURSACH\obj\Debug\KURSACH.csproj.CopyComplete

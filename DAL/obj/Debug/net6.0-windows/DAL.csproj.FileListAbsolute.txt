@@ -1,0 +1,11 @@
+D:\KURSACH.almostfinal — копия\DAL\bin\Debug\net6.0-windows\DAL.deps.json
+D:\KURSACH.almostfinal — копия\DAL\bin\Debug\net6.0-windows\DAL.dll
+D:\KURSACH.almostfinal — копия\DAL\bin\Debug\net6.0-windows\DAL.pdb
+D:\KURSACH.almostfinal — копия\DAL\obj\Debug\net6.0-windows\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\KURSACH.almostfinal — копия\DAL\obj\Debug\net6.0-windows\DAL.AssemblyInfoInputs.cache
+D:\KURSACH.almostfinal — копия\DAL\obj\Debug\net6.0-windows\DAL.AssemblyInfo.cs
+D:\KURSACH.almostfinal — копия\DAL\obj\Debug\net6.0-windows\DAL.csproj.CoreCompileInputs.cache
+D:\KURSACH.almostfinal — копия\DAL\obj\Debug\net6.0-windows\DAL.dll
+D:\KURSACH.almostfinal — копия\DAL\obj\Debug\net6.0-windows\refint\DAL.dll
+D:\KURSACH.almostfinal — копия\DAL\obj\Debug\net6.0-windows\DAL.pdb
+D:\KURSACH.almostfinal — копия\DAL\obj\Debug\net6.0-windows\ref\DAL.dll
